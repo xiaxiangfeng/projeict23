@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": [
+    "Social",
+    "News",
+    "Sports",
+    "Tech",
+    "Cyber",
+    "Finance",
+    "Politics",
+    "Weather",
+    "Education",
+    "Culture",
+    "Travel",
+    "Movies",
+    "Science",
+    "Eco",
+    "Electronics",
+    "Stocks",
+    "Volunteer",
+    "Defense"
+  ]
+}
